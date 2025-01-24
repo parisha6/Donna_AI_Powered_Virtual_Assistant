@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "soundFile": "D:\\Course Material\\DL\\Project folder\\Bitbucket\\Ashutosh\\Bitbucket\\Ash_BE_demo\\Donna-Backend_Main_Demo\\audios\\message_0.wav",
+    "duration": 1.48
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.16, "value": "B" },
+    { "start": 0.16, "end": 0.30, "value": "C" },
+    { "start": 0.30, "end": 0.44, "value": "B" },
+    { "start": 0.44, "end": 0.72, "value": "F" },
+    { "start": 0.72, "end": 1.00, "value": "B" },
+    { "start": 1.00, "end": 1.07, "value": "C" },
+    { "start": 1.07, "end": 1.21, "value": "B" },
+    { "start": 1.21, "end": 1.28, "value": "G" },
+    { "start": 1.28, "end": 1.35, "value": "B" },
+    { "start": 1.35, "end": 1.46, "value": "A" },
+    { "start": 1.46, "end": 1.48, "value": "X" }
+  ]
+}
